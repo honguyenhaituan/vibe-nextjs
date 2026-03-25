@@ -40,6 +40,8 @@ If pnpm is not installed on my machine, please install it first.
 Once everything is running, let me know the local URL to open in my browser and what file I should edit to start customizing the site.
 ```
 
+Once your project is running, open [`PROMPTS.md`](./PROMPTS.md) for a cheat sheet of prompts to start building.
+
 Claude will handle the terminal commands and guide you through each step.
 
 ---
